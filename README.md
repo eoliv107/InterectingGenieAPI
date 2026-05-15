@@ -5,7 +5,7 @@ NOTES:<br>
 2 - The credentials is personal so it is blank to keep the confidentiality.<br>
 
 
-Since joining General Motors, I have focused on implementing solutions that accelerate daily operations, reduce manual effort, and improve process reliability. Several activities that previously required two to three days are now automated and refreshed daily, including sales, demand, and parts databases. The integration of tax-related information into the parts database enhanced and strengthened the pricing process.
+Since joining in the company, I have focused on implementing solutions that accelerate daily operations, reduce manual effort, and improve process reliability. Several activities that previously required two to three days are now automated and refreshed daily, including sales, demand, and parts databases. The integration of tax-related information into the parts database enhanced and strengthened the pricing process.
 This article presents the development of a chatbot designed to interact with business data through Databricks Genie. In future chapters, I will provide additional detail on database ingestion in Databricks and the development of gold-layer visualizations for business users.
 1.	Project Objective<br>
 The main objective was to implement a chatbot capable of helping users quickly retrieve information related to daily sales, monthly sales, warranty data, and other key business indicators. The goal was to make data access more intuitive, faster, and more scalable for end users.
